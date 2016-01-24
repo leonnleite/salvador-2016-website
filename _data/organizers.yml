@@ -1,10 +1,11 @@
 - 
   group: "Principal Organizador"
   elements: 
-    - {name: "PHPBA", description: "PHPBA - Grupo de Desenvolvedores de PHP da Bahia", link: "http://phpba.com.br", imageUrl: "gdg-lviv.svg"}
+    - {name: "PHPBA", description: "Grupo de Desenvolvedores de PHP da Bahia", link: "http://www.phpba.com.br", imageUrl: "phpba.png"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "PHPPB", description: "Grupo de Desenvolvedores de PHP da Paraíba ", link: "#", imageUrl: "php-pb.jpg"}
+    - {name: "PHP com Rapadura", description: "PHP com Rapadura", link: "#", imageUrl: "phpcomrapadura.png"}
+    - {name: "PHPPE", description: "Grupo de Desenvolvedores de PHP de Pernambuco", link: "#", imageUrl: "phppe.jpg"}
+    - {name: "PHPMA", description: "Grupo de Desenvolvedores de PHP do Maranhão", link: "#", imageUrl: "phpma.png"}    

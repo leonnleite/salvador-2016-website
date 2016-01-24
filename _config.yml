@@ -22,15 +22,15 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "PHPeste"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerAlternateName: "Organizadores do PHPeste"
+organizerDescription: "Evento organizado pelas comunidades dos estados de Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@phpestene"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -50,29 +50,31 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
+ - {link: "mailto:organizacao@phpeste.net", text: "Seja um patrocinador"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
+ - {link: "mailto:organizacao@phpeste.net", text: "Seja um patrocinador"}
 
 # Hero Block
 heroImage: "farol_black.jpg"
 heroTitle: "PHPeste <typeout> 2016"
-eventDate: "08 e 09 de Outubro, 2016"
+eventDate: "08 e 09 de Outubro"
 typeoutTextValues: '"Salvador", "Acarajé", "Pelourinho", "Capoeira", "Praia"'
 typeoutFallback: "Salvador"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+  - {link: "mailto:organizacao@phpeste.net", text: "Seja um patrocinador"}
+  - {permalink: "/#subscribe", text: "Receba novidades"}  
+ # - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
+ # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "Sobre PHPeste"
+aboutTitle: "Sobre o PHPeste"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conference", image: "conference.jpg", text: "Evento organizado pelas comunidades dos estados de Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Serão 2 dias de muito aprendizado, muita mão na massa e, principalmente, de gente \"arretada da peste\"" }
  - {title: "Networking", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "pelourinho.jpg"
+statisticBlockImage: "galera.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
@@ -115,20 +117,20 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "elevador.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "phpeste"
+tweetsFeedTitle: "$twitter.get()"
+twitterHashTag: "PHPeste"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizadores"
-partnersTitle: "Parceiros"
-partnersC4sponsorsButton: "Seja um parceiro"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Receba novidades"
+subscribeAction: "//phpeste.us12.list-manage.com/subscribe/post?u=805db3d3f9f27a2b408a4b2d9&amp;id=5693765ba3"
+subscribeInfo: "As inscrições serão abertas no final do primeiro semestre. Vagas limitadas. Fique ligado!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -174,24 +176,25 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=phpestene", icon: "twitter"}
+ - {link: "https://facebook.com/PHPeste-998428916863351", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://phpeste.net", text: "PHPeste.net"}
+   - {link: "http://2015.phpeste.net", text: "Edição 2015"}
  -
-  title: "Contacts"
+  title: "Contatos"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:organizacao@phpeste.net", text: "organizacao@phpeste.net"}
+   - {link: "mailto:sponsor@phpeste.net", text: "sponsor@phpeste.net"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
 blogTitle: "Latest news"
