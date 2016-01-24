@@ -24,12 +24,12 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "PHPeste"
 organizerAlternateName: "Organizadores do PHPeste"
 organizerDescription: "Evento organizado pelas comunidades dos estados de Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "organizacao@phpestenet"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.phpeste.net/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, evento, programming, programação, developers, desenvolvdores, php, community, comunidade"
 twitterAccount: "@phpestene"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -43,12 +43,15 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {link: "http://2015.phpeste.net/", text: "Edição 2015"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/#about", text: "Sobre"}
+ - {link: "http://2015.phpeste.net/", text: "Edição 2015"} 
+ - {permalink: "/#subscribe", text: "Receba Novidades"} 
+ - {permalink: "/#partners", text: "Organizadores"}  
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/logistics/", text: "Logistics"}
+ # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "mailto:organizacao@phpeste.net", text: "Seja um patrocinador"}
 rightNavigationButtons:
@@ -56,10 +59,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "farol_black.jpg"
-heroTitle: "PHPeste <typeout> 2016"
-eventDate: "08 e 09 de Outubro"
-typeoutTextValues: '"Salvador", "Acarajé", "Pelourinho", "Capoeira", "Praia"'
-typeoutFallback: "Salvador"
+heroTitle: "PHPeste #<typeout> 2016"
+eventDate: "08 e 09 de Outubro, Salvador, Bahia"
+typeoutTextValues: '"salvador", "acarajé", "capoeira", "comunidade", "praia"'
+typeoutFallback: "salvador"
 heroButtons:
   - {link: "mailto:organizacao@phpeste.net", text: "Seja um patrocinador"}
   - {permalink: "/#subscribe", text: "Receba novidades"}  
