@@ -1,7 +1,7 @@
 - 
-  group: "Main organizer"
+  group: "Principal Organizador"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "PHPBA", description: "PHPBA - Grupo de Desenvolvedores de PHP da Bahia", link: "http://phpba.com.br", imageUrl: "gdg-lviv.svg"}
 - 
   group: "Co-organizers"
   elements: 
