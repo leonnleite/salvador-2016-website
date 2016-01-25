@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "PHPeste - Conferência de PHP do Nordeste"
 email: "organizacao@phpeste.net"
 description: "Conferência de PHP do Nordeste"
-baseurl: "/phpeste"
+baseurl: "/salvador-2016-website"
 url: "http://www.phpeste.net"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
