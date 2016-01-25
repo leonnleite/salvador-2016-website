@@ -1,4 +1,4 @@
-.subscribe {
+.subscribe {    
     .email {
         width: 100%;
         height: 53px;
@@ -15,6 +15,27 @@
         @extend .email;
         input {
             text-transform: uppercase;
+        }
+    }
+}
+.subscribe-white {    
+    .email {
+        width: 100%;
+        height: 53px;
+        margin-bottom: 16px;
+        transition: $base-transition;
+        input {
+            width: 100%;
+            height: 100%;            
+            font-size: 16px;
+            color: #000;
+            border: 1px solid #ddd;
+        }
+    }
+    .button {
+        @extend .email;
+        input {
+            text-transform: uppercase;            
         }
     }
 }

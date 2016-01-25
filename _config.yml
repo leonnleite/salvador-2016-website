@@ -65,7 +65,7 @@ typeoutTextValues: '"salvador", "acarajé", "capoeira", "comunidade", "praia"'
 typeoutFallback: "salvador"
 heroButtons:
   - {link: "mailto:organizacao@phpeste.net", text: "Seja um patrocinador"}
-  - {permalink: "/#subscribe", text: "Receba novidades"}  
+  - {permalink: "/#subscribe", text: "Receba Novidades"}  
  # - {link: "https://bit.ly/dfua-c4p", text: "Seja um palestrante"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -131,7 +131,7 @@ partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Receba novidades"
+subscribeTitle: "Receba Novidades"
 subscribeAction: "//phpeste.us12.list-manage.com/subscribe/post?u=805db3d3f9f27a2b408a4b2d9&amp;id=5693765ba3"
 subscribeInfo: "As inscrições serão abertas no final do primeiro semestre. Vagas limitadas. Fique ligado!"
 
