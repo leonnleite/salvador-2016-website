@@ -1,11 +1,11 @@
-- 
-  group: "Principal Organizador"
-  elements: 
+-
+  group: "Organizador"
+  elements:
     - {name: "PHPBA", description: "Grupo de Desenvolvedores de PHP da Bahia", link: "http://www.phpba.com.br", imageUrl: "phpba.png"}
-- 
-  group: "Co-organizers"
-  elements: 
+-
+  group: "Parceiros"
+  elements:
     - {name: "PHPPB", description: "Grupo de Desenvolvedores de PHP da Paraíba ", link: "#", imageUrl: "php-pb.jpg"}
     - {name: "PHP com Rapadura", description: "PHP com Rapadura", link: "#", imageUrl: "phpcomrapadura.png"}
     - {name: "PHPPE", description: "Grupo de Desenvolvedores de PHP de Pernambuco", link: "#", imageUrl: "phppe.jpg"}
-    - {name: "PHPMA", description: "Grupo de Desenvolvedores de PHP do Maranhão", link: "#", imageUrl: "phpma.png"}    
+    - {name: "PHPMA", description: "Grupo de Desenvolvedores de PHP do Maranhão", link: "#", imageUrl: "phpma.png"}
