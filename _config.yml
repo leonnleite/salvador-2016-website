@@ -73,16 +73,16 @@ heroButtons:
 aboutTitle: "Sobre o PHPeste"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Evento organizado pelas comunidades dos estados de Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe." }
- - {title: "Workshops", image: "workshop.jpg", text: "Serão 2 dias de muito aprendizado, muita mão na massa e, principalmente, de gente \"arretada da peste\"" }
- - {title: "Networking", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Serão 2 dias de muito aprendizado, muita mão na massa e, principalmente, de gente \"arretada da peste\"." }
+ - {title: "Networking", image: "hackathon.jpg", text: "Você terá oportunidade de conhecer e compartilhar conhecimento com vários experts da comunidade PHP." }
 
 # Statistic Block
 statisticBlockImage: "galera.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "300", specialCharacter: "+", info: "participantes", detail: "do Brasil inteiro"}
+ - {count: "24", specialCharacter: "+", info: "horas", detail: "de muito PHP"}
+ - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "brasileiros e internacionais"}
+ - {count: "3", specialCharacter: "", info: "trilhas", detail: "mais área de convivência"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
