@@ -1,5 +1,15 @@
 (function($) {
-    $(document).ready(function() {
+    $(document).ready(function() {                   
+
+        $(function(){
+            $('.slider div:gt(0)').hide();
+            setInterval(function(){
+              $('.slider :first-child').fadeOut(2000)
+                 .next('div').fadeIn(2000)
+                 .end().appendTo('.slider');}, 
+              10000);
+        });
+
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
             $('#loading-animation').fadeOut();

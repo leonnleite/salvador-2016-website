@@ -1,0 +1,54 @@
+.slide1,.slide2,.slide3,.slide4,.slide5 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.slider div {
+  position: absolute;  
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+.slide1 {  
+  background-size: cover;
+  animation:fade 10s infinite;
+  -webkit-animation:fade 10s infinite;
+  -webkit-animation-delay: 10s; /* Chrome, Safari, Opera */
+  animation-delay: 10s;
+
+} 
+.slide2 {
+  background-size: cover;
+  animation:fade2 10s infinite;
+  -webkit-animation:fade2 10s infinite;
+  -webkit-animation-delay: 10s; /* Chrome, Safari, Opera */
+  animation-delay: 10s;
+}
+.slide3 {    
+  background-size: cover;
+  animation:fade3 10s infinite;
+  -webkit-animation:fade3 10s infinite;
+  -webkit-animation-delay: 10s; /* Chrome, Safari, Opera */
+  animation-delay: 10s;
+}
+@keyframes fade
+{
+  0%   {opacity:1}
+  33.333% { opacity: 0}
+  66.666% { opacity: 0}
+  100% { opacity: 1}
+}
+@keyframes fade2
+{
+  0%   {opacity:0}
+  33.333% { opacity: 1}
+  66.666% { opacity: 0 }
+  100% { opacity: 0}
+}
+@keyframes fade3
+{
+  0%   {opacity:0}
+  33.333% { opacity: 0}
+  66.666% { opacity: 1}
+  100% { opacity: 0}
+}
