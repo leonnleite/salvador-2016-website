@@ -120,7 +120,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "elevador.jpg"
-tweetsFeedTitle: "$twitter.get()"
+tweetsFeedTitle: ""
 twitterHashTag: "PHPeste"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
