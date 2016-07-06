@@ -120,7 +120,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "elevador.jpg"
-tweetsFeedTitle: "$twitter.get()"
+tweetsFeedTitle: ""
 twitterHashTag: "PHPeste"
 twitterFeed: "https://phpeste-search-tweet.herokuapp.com/tweets_favorites.php?count=10"
 
