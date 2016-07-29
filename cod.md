@@ -1,20 +1,36 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Código de conduta
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+ Todos os participantes, palestrantes, patrocinadores e voluntários da conferência são obrigados a concordar com este **código de conduta**. Os organizadores irão aplicá-lo durante todo o evento. Esperamos a cooperação de todos para garantir um ambiente seguro.
 
+---
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+###Nosso código
+Esta conferência é dedicada a fornecer uma experiência livre de assédio para todos, independentemente de gênero, idade, orientação sexual, deficiência, aparência física, tamanho, raça ou religião. **Nós não toleramos assédio dos participantes, sob qualquer forma.** 
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Linguagem e imagens sexuais não são adequadas em nenhum local da conferência, incluindo palestras, workshops, festas, Twitter e outros meios on-line. Os participantes da conferência que violarem estas regras poderão ser convidados a se retirar ou ser expulsos <em>sem restituição</em> a critério dos organizadores da conferência.
 
+Versão Extendida
+-------
 
-######Contacts:
+- Será entendido como assédio: comentários verbais ofensivos relacionados a gênero, idade, orientação sexual, deficiência, aparência física, tamanho, raça, religião, imagens sexuais em espaços públicos, intimidação deliberada, perseguição, assédio fotográfico, interrupção de palestra ou de alguma outra ação, contato físico inapropriado e atenção sexual indesejada.
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+- Os participantes que forem advertidos por qualquer comportamento de assédio devem parar imediatamente.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+- Patrocinadores também estão sujeitos à política anti-assédio. Em particular, os patrocinadores não devem usar imagens, atividade ou outro material com contexto sexual. Recepcionistas de estandes (incluindo voluntários) não devem usar roupas/uniformes/trajes inadequadas (sexualmente atrativas), ou criar, de alguma forma, um ambiente sexualizado.
+
+- Se um participante se envolve em comportamento de assédio, os organizadores da conferência poderão tomar qualquer ação que considerem adequada, inclusive advertindo o infrator ou até mesmo o expulsando da conferência, sem restituição.
+
+- Se você estiver sendo assediado, ou perceber que alguém está sendo assediado, ou tiver alguma outra dúvida, entre em contato com um membro da equipe da conferência imediatamente. A organização do evento pode ser facilmente identificada pelas camisas com a marca do evento.
+
+- A organização da conferência terá o prazer em ajudar os participantes a contatar a segurança do local do evento ou até mesmo oficiais da lei local (polícia), fornecer escoltas, ou ajudar aqueles que sofreram o assédio para que estes se sintam seguros durante a conferência. Nós valorizamos a sua participação.
+
+Esperamos que os participantes sigam estas regras na conferência, salas de workshops e outros eventos sociais relacionados à conferência.
+
+<small><em>Crédito e fonte original: <a href="http://2012.jsconf.us/#/about">http://2012.jsconf.us/#/about</a> &amp; <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">The Ada Initiative</a>
+Por favor, ajude a traduzir ou a melhorar: <a href="https://github.com/leftlogic/confcodeofconduct.com">http://github.com/leftlogic/confcodeofconduct.com</a>
+Esta obra está licenciada sob <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a></em></small>
