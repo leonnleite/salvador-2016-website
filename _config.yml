@@ -42,7 +42,7 @@ c4sponsorsUrl: "mailto:organizacao@phpeste.net"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/#about", text: "Sobre"}
+ - {permalink: "/about", text: "Sobre"}
  - {link: "http://2015.phpeste.net/", text: "Edição 2015"}
  - {permalink: "/#subscribe", text: "Receba Novidades"}
  - {permalink: "/#partners", text: "Organizadores"}
