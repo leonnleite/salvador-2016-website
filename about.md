@@ -15,4 +15,4 @@ O PHPeste não será apenas um evento no qual você ganhará um certificado para
 O evento é organizado pelas comunidades dos estados de Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe. A conferência é executada exclusivamente por membros voluntários das comunidades e terão os custos minimizados para manter os preços dos ingressos o mais baixo possível. Para isso, contamos com a colaboração de todas as comunidades.
 
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}img/sections-background/galera.jpg" style="display:none">
+<img class="img-responsive feature-image" src="/img/sections-background/galera.jpg" style="display:none">

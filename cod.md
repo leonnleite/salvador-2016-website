@@ -9,8 +9,8 @@ isStaticPost: true
 
 ---
 
-###Nosso código
-Esta conferência é dedicada a fornecer uma experiência livre de assédio para todos, independentemente de gênero, idade, orientação sexual, deficiência, aparência física, tamanho, raça ou religião. **Nós não toleramos assédio dos participantes, sob qualquer forma.** 
+### Nosso código
+Esta conferência é dedicada a fornecer uma experiência livre de assédio para todos, independentemente de gênero, idade, orientação sexual, deficiência, aparência física, tamanho, raça ou religião. **Nós não toleramos assédio dos participantes, sob qualquer forma.**
 
 Linguagem e imagens sexuais não são adequadas em nenhum local da conferência, incluindo palestras, workshops, festas, Twitter e outros meios on-line. Os participantes da conferência que violarem estas regras poderão ser convidados a se retirar ou ser expulsos <em>sem restituição</em> a critério dos organizadores da conferência.
 
