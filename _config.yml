@@ -46,6 +46,7 @@ navigationLinks:
  - {link: "http://2015.phpeste.net/", text: "Edição 2015"}
  - {permalink: "/#subscribe", text: "Receba Novidades"}
  - {permalink: "/#partners", text: "Organizadores"}
+ - {permalink: "/cod", text: "Código de Conduta"}
 bottomNavigationLinks:
  - {link: "mailto:organizacao@phpeste.net", text: "Seja um patrocinador"}
 rightNavigationButtons:
@@ -127,7 +128,7 @@ partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Receba Novidades"
 subscribeAction: "//phpeste.us12.list-manage.com/subscribe/post?u=805db3d3f9f27a2b408a4b2d9&amp;id=5693765ba3"
-subscribeInfo: "As inscrições serão abertas no final do primeiro semestre. Vagas limitadas. Fique ligado!"
+subscribeInfo: "As inscrições serão abertas em breve (vagas limitadas). Fique ligado!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -192,7 +193,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Código de Conduta"}
+   - {permalink: "/cod", text: "Código de Conduta"}
 
 # Blog
 blogTitle: "Latest news"
