@@ -1,30 +1,20 @@
 <!-- Begin Hero Section -->
 <section id="top-section-hero" class="top-section-hero top-section image-section">
     {% include navigation.html %}
-    
     <div class="slider">
-        <div style="background-image: url('{{site.baseurl}}/img/sections-background/slide2.jpg'"></div>
-
-        <div style="background-image: url('{{site.baseurl}}/img/sections-background/slide0.jpg'"></div>
-
-        <div style="background-image: url('{{site.baseurl}}/img/sections-background/slide3.jpg'"></div>        
+        <div style="background-image: url('{{site.baseurl}}/img/sections-background/slide2.jpg');"></div>
+        <div style="background-image: url('{{site.baseurl}}/img/sections-background/slide0.jpg');"></div>
+        <div style="background-image: url('{{site.baseurl}}/img/sections-background/slide3.jpg');"></div>
     </div>
-
-    <!-- <div class="slide1" style="background-image: url('{{site.baseurl}}/img/sections-background/slide2.jpg');"></div>
-
-    <div class="slide2" style="background-image: url('{{site.baseurl}}/img/sections-background/slide0.jpg');"></div>        
-
-    <div class="slide3" style="background-image: url('{{site.baseurl}}/img/sections-background/slide3.jpg');"></div>   --> 
-
-    <div class="content-wrapper">             
-    <div class="jumbotron">        
+    <div class="content-wrapper">
+    <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <p>{{ site.eventDate }}</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}            
+            {% endfor %}
             </div>
         </div>
     </div>
