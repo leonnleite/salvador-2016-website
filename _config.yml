@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "PHPeste - Conferência de PHP do Nordeste"
 email: "organizacao@phpeste.net"
@@ -43,10 +42,11 @@ c4sponsorsUrl: "mailto:organizacao@phpeste.net"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about", text: "Sobre"}
- - {link: "http://2015.phpeste.net/", text: "Edição 2015"}
+# - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/#subscribe", text: "Receba Novidades"}
  - {permalink: "/#partners", text: "Organizadores"}
  - {permalink: "/cod", text: "Código de Conduta"}
+ - {link: "http://2015.phpeste.net", text: "Edição 2015"}
 bottomNavigationLinks:
  - {link: "http://benfeitoria.com/phpeste2016", text: "Seja um patrocinador"}
 rightNavigationButtons:
@@ -82,9 +82,9 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: "4"
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: "2"
+rockstarSpeakersTitle: "Palestrantes"
+rockstarSpeakersButtonText: ""
 
 # Location Block
 locationBlockTitle: "Location"
@@ -172,7 +172,6 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=phpestene", icon: "twitter"}
  - {link: "https://facebook.com/PHPeste-998428916863351", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -186,7 +185,6 @@ footerBlocks:
   title: "Contatos"
   links:
    - {link: "mailto:organizacao@phpeste.net", text: "organizacao@phpeste.net"}
-   - {link: "mailto:sponsor@phpeste.net", text: "sponsor@phpeste.net"}
    - {link: "mailto:contato@phpba.com.br", text: "contato@phpba.com.br"}
  -
   title: "FAQ"
