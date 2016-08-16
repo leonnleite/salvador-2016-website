@@ -5,4 +5,28 @@
   subtype: presentation
   speakers: [1]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediário" 
+-
+  id: 002
+  title: "Vamos escrever menos código!"
+  description: "Não existe bug se não existir código. Tomando isso como verdade, vamos conhecer técnicas para reduzir a quantidade de código que geralmente escrevemos. Por ser uma linguagem com suporte à múltiplos paradigmas e por naturalmente oferecer uma boa flexibilidade, podemos utilizar vários recursos do PHP para reduzir a quantidade de código que produzimos. Nessa palestra tento mostrar ferramentas, recursos e técnica que visam deixar o código da aplicação menor e mais simples de ser compreendido."
+  subtype: presentation
+  speakers: [3]
+  language: pt
+  complexity: "Iniciante" 
+-
+  id: 003
+  title: "Aprendendo PHP enquanto come Rapadura"
+  description: "Você que não conhece PHP, ou que conhece mais tem medo de se aprofundar, essa palestra é para você. Vamos ver como escrever poucos códigos gerando resultados rápidos, diretos, e joiados. Você verá que PHP é uma linguagem incrível e arretada, que pode te tornar um desenvolvedor desenrolado."
+  subtype: presentation
+  speakers: [4]
+  language: pt
+  complexity: "Iniciante" 
+-
+  id: 004
+  title: "JWT com Symfony"
+  description: "Mostrarei como configurar nossa API com o Framework Symfony, para a utilização de JWT com mecanismo de autenticação. Abordarei conceitos básico sobre o Framework, sobre JWT e a integração entre ambos."
+  subtype: presentation
+  speakers: [5]
+  language: pt
+  complexity: "Intermediário" 

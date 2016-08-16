@@ -22,3 +22,41 @@
   social:
     - {name: "twitter", link: "https://twitter.com/duodraco"}
     - {name: "github", link: "https://github.com/duodraco"}
+-
+  id: 3
+  name: "Abdala"
+  surname: "Cerqueira"
+  company: "PHP-PB"
+  title: "Coordenador"
+  bio: "Formado em Sistemas para Web, Pós-graduado em Sistemas Distribuídos e internet. Atualmente é consultor e atua como coordenador do PHP-PB, grupo de usuários PHP da Paraíba."
+  thumbnailUrl: abdalacerqueira.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/abdalac"}
+    - {name: "github", link: "https://github.com/abdala"}
+-
+  id: 4
+  name: "Alessandro"
+  surname: "Feitoza"
+  company: "Secretaria da Educação Ceará"
+  title: "Desenvolvedor"
+  bio: "Ativista e Militante do Software Livre, Desenvolvedor Web na Secretaria da Educação do Estado do Ceará, e Professor de PHP na Universidade do Trabalho Digital. Com apenas 20 anos, já palestrou e ministrou workshops na Campus Party Brasil/Recife, PHPeste João Pessoa, FTSL, Expotec, Darkmira Tour PHP, entre outros. Alessandro Feitoza é o Fundador da Comunidade PHP com Rapadura, e atua na organização do FLISoL Ceará e outras comunidades."
+  thumbnailUrl: feitoza.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/feitozaale"}
+    - {name: "github", link: "https://github.com/alessandrofeitoza"}
+    - {name: "facebook", link: "https://facebook.com/Alessandro.Feitoza"}
+-
+  id: 5
+  name: "Nando"
+  surname: "Kstro Net"
+  company: "Code Experts Learning"
+  title: "Professor"
+  bio: "Developer por amor e curioso por natureza! Gerencia comunidades e meetups em sua região, desde PHP UG a Ionic Meetup passando pelo Google Developers Group. Zend Certified PHP Engineer, para a versão 5.5 do PHP. Acredita que promover e participar de eventos, meetups e fortalecer o network, o faz um profissional melhor e mais iterado no mercado onde atua! Profissionalmente atuo na Secretaria de Transparência e Controle do Maranhão e me aventuro, com cuidado, no mundo do empreededorismo na Code Experts Apps, empresa focada na criação de Aplicações Web e Aplicativos Móveis."
+  thumbnailUrl: nanderson.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/NandoKstroNet"}
+    - {name: "github", link: "https://github.com/NandoKstroNet"}
+    - {name: "facebook", link: "https://facebook.com/NandoKstroNet"}
