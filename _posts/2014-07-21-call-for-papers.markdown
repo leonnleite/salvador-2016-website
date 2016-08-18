@@ -4,64 +4,16 @@ title:  "Call for Papers"
 date:   2014-07-21 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+Nós sabemos que palestrantes são a chave do sucesso para a conferência e esperamos que você envie sua apresentação.
 
-#### Presenters – who should speak at the DevFest Conference?
+#### ASSUNTOS DIVERSOS!
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+PHPeste está comprometido em criar a conferência que é a mais inclusiva possível. Nós queremos mostrar os talentos disponíveis em todo o Brasil, assim como damos as boas vindas às palestras internacionais.<br/>
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+Nós também estamos comprometidos em assegurar que a conferência é o local onde ideias podem ser trocadas, velhos amigos juntos, novos amigos se conhecendo. Nos esperamos que os palestrantes, participantes e os representantes dos patrocinadores sejam profissionais e corteses uns com os outros. Nos reservamos o direito de retirar, sem reembolsos, qualquer participante (palestrantes dentre outros) que não for capaz de cumprir essa política.<br/>
 
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+#### Submeta sua palestra até 09/10/2016
+Link do Call For Papers: http://cfp.phpeste.net/
 
-##### Android
-
-__Google I/O 2014__
-
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
-
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
-
-
-##### Cloud
-
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
-* Go (as a language for a Cloud Ready Apps)
-
-
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
-
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
-
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+#### Dúvidas? 
+Email dos organizadores [organizacao@phpeste.net](mailto:organizacao@phpeste.net)
