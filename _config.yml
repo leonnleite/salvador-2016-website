@@ -30,9 +30,9 @@ organizerLink: "http://www.phpeste.net/"
 # Head
 metaKeywords: "event, evento, programming, programação, developers, desenvolvedores, php, community, comunidade"
 twitterAccount: "@phpestene"
-socialImageSrcGooglePlus: "/img/brand.png"
-socialImageSrcTwitter: "/img/brand.png"
-socialImageSrcFacebook: "/img/brand.png"
+socialImageSrcGooglePlus: "/img/brand-optimized-seo.png"
+socialImageSrcTwitter: "/img/brand-optimized-seo.png"
+socialImageSrcFacebook: "/img/brand-optimized-seo.png"
 
 # Documents
 c4pUrl: "http://cfp.phpeste.net/"
