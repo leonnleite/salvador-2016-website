@@ -7,7 +7,7 @@
   language: en
   complexity: "Intermediário" 
 -
-  id: 002
+  id: 003
   title: "Vamos escrever menos código!"
   description: "Não existe bug se não existir código. Tomando isso como verdade, vamos conhecer técnicas para reduzir a quantidade de código que geralmente escrevemos. Por ser uma linguagem com suporte à múltiplos paradigmas e por naturalmente oferecer uma boa flexibilidade, podemos utilizar vários recursos do PHP para reduzir a quantidade de código que produzimos. Nessa palestra tento mostrar ferramentas, recursos e técnica que visam deixar o código da aplicação menor e mais simples de ser compreendido."
   subtype: presentation
@@ -15,7 +15,7 @@
   language: pt
   complexity: "Iniciante" 
 -
-  id: 003
+  id: 004
   title: "Aprendendo PHP enquanto come Rapadura"
   description: "Você que não conhece PHP, ou que conhece mais tem medo de se aprofundar, essa palestra é para você. Vamos ver como escrever poucos códigos gerando resultados rápidos, diretos, e joiados. Você verá que PHP é uma linguagem incrível e arretada, que pode te tornar um desenvolvedor desenrolado."
   subtype: presentation
@@ -23,10 +23,26 @@
   language: pt
   complexity: "Iniciante" 
 -
-  id: 004
+  id: 005
   title: "JWT com Symfony"
   description: "Mostrarei como configurar nossa API com o Framework Symfony, para a utilização de JWT com mecanismo de autenticação. Abordarei conceitos básico sobre o Framework, sobre JWT e a integração entre ambos."
   subtype: presentation
   speakers: [5]
   language: pt
   complexity: "Intermediário" 
+-
+  id: 006
+  title: "Black Ark - Um novo conceito em Gestão de Carreiras"
+  description: "Proponho apresentar dentro do tempo estipulado, um novo conceito a respeito de gestão de carreiras na área de TI, que visa aproximar e estimular a evolução saudável dos desenvolvedores da região através de Gamification e uma ferramenta capaz de integrar os desafios solucionados pelos desenvolvedores em seu dia-a-dia. Atuo como coordenador de equipes, e minha equipe hoje é regida por esse sistema que criei (atualmente com ajuda do Mantis), desenvolvi desde o fluxo da fábrica (recepção á entrega) ao módulo visual com ajuda da UI do Mantis, o Plugin de Scrum do Mantis, e algumas melhorias que achei necessárias. A ideia é basicamente transformar o ambiente de desenvolvimento em uma espécie de RPG, onde os casos tem um determinado peso, baseando-se em sua prioridade e no valor daquela entrega para o cliente, como indicado para projetos deste tipo. O sistema divide os desenvolvedores em Classes que eles mesmos podem escolher, cada classe permite que o desenvolvedor upe determinadas áreas específicas de TI. (FrontEnd, BackEnd, SQL, PhP, Js...) Por exemplo, um caso de alteração simples de um campo html, teria valeria 30 pontos no sistema, o desenvolvedor da [classe] Dev, responsável por realizar o caso, ganhará uma porcentagem desses pontos, o ""Tester"" ganhará uma porcentagem menor, e o da classe Ger. de Config ganhará a maior quantidade de pontos. Esses pontos vão para uma ficha interna/externa do desenvolvedor, que será disponibilizada a público quando a ferramenta estiver com seu desenvolvimento concluído, tornando qualquer empresa apta a implantar o sistema ou apenas a parte de pontuação do sistema em seu fluxo, um módulo desenvolvedor de equipes, aumentando a eficiência da gestão. Já do lado do usuário, este terá em seu perfil público, provas mais concretas de boas práticas e experiência de desenvolvimento. Atualmente procuro empresas parceiras para tentar implantar este sistema, a parceiros de desenvolvimento para levar esta ideia para frente."
+  subtype: presentation
+  speakers: [6]
+  language: pt
+  complexity: "Iniciante" 
+-
+  id: 007
+  title: "Identificando vulnerabilidades em larga escala através de falhas de desenvolvimento"
+  description: "Nessa apresentação irei demonstrar como identificar vulnerabilidades em larga escala através de falhas de desenvolvimento utilizando o PHP como ferramenta de varredura e análise. Tudo dividido em alguns passos, desde o processo de entendimento da falha de segurança passando pela teoria até chegar na parte prática efetiva no código."
+  subtype: presentation
+  speakers: [7]
+  language: pt
+  complexity: "Avançado" 
