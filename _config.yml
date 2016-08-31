@@ -74,8 +74,8 @@ statisticBlockImage: "galera.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "participantes", detail: "do Brasil inteiro"}
  - {count: "16", specialCharacter: "+", info: "horas", detail: "de muito PHP"}
- - {count: "12", specialCharacter: "+", info: "palestrantes", detail: "brasileiros e internacionais"}
- - {count: "1", specialCharacter: "", info: "trilha", detail: "mais área de convivência"}
+ - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "brasileiros e internacionais"}
+ - {count: "2", specialCharacter: "", info: "trilha", detail: "mais área de convivência"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
