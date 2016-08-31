@@ -67,7 +67,7 @@
   company: "PHP-PE"
   title: "Coordenador Técnológico"
   bio: "Desenvolvedor FullStack há 6 anos,  Game Designer e Ilustrador nas horas vagas,  atualmente trabalha na Fusiontrak como coordenador tecnológico, tem interesse em Gestão de Projetos e Pessoas, também gosta de ouvir idéias novas e trabalhar para que se tornem reais."
-  thumbnailUrl: felipe.png
+  thumbnailUrl: felipe.jpg
   rockstar: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/felipe.gomesna"}
@@ -78,7 +78,7 @@
   company: "PHP-DF"
   title: "Engenheiro de Software"
   bio: "Amante da tecnologia, entusiasta da área de segurança da informação. Desenvolvedor web desde 2007. Evangelizador PHP, atuante em comunidades como WordPress e PHP em Brasília e no Brasil. Desenvolvedor de ferramentas voltada para segurança como o php avenger. Especialista em Php e ferramentas correlatas como Cms’s, WordPress, Joomla, Drupal e Frameworks como Zend 1, Zend 2, Symfony / Doctrine."
-  thumbnailUrl: lenon.png
+  thumbnailUrl: lenon.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/lenonleite"}
