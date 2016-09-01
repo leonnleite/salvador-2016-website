@@ -6,7 +6,7 @@ isStaticPost: true
 ---
 
 
-PHPeste é uma conferência de PHP organizada pelas comunidades “cabra da peste” do nordeste brasileiro. Já passamos por João Pessoa (PB) e agora é a vez de Salvador (BA) sediar um dos maiores eventos de PHP do Brasil. Essa edição terá início em 08 de outubro, Dia do Nordestino, e encerrará no dia 09 de outubro, no Instituto Federal da Bahia (IFBA).
+PHPeste é uma conferência de PHP organizada pelas comunidades “cabra da peste” do nordeste brasileiro. Já passamos por João Pessoa (PB) e agora é a vez de Salvador (BA) sediar um dos maiores eventos de PHP do Brasil. Essa edição terá início em 08 de outubro, Dia do Nordestino, e encerrará no dia 09 de outubro, na Universidade Católica do Salvador (UCSal).
 
 Serão dois dias de muito aprendizado, muita mão na massa e, principalmente, de gente “arretada da peste” que irá ampliar ainda mais seu networking. O evento contará com a participação de palestrantes internacionais, grandes nomes nacionais e mais de 24 horas de palestras de altíssimo nível, minicursos práticos e hackathons focados na temática do evento: crescimento e colaboração.
 
