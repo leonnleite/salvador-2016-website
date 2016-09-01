@@ -2,11 +2,11 @@
     $(document).ready(function() {                   
 
         $(function(){
-            $('.slider div:gt(0)').hide();
+            $('.slider-hero div:gt(0)').hide();
             setInterval(function(){
-              $('.slider :first-child').fadeOut(2000)
+              $('.slider-hero :first-child').fadeOut(2000)
                  .next('div').fadeIn(2000)
-                 .end().appendTo('.slider');}, 
+                 .end().appendTo('.slider-hero');}, 
               10000);
         });
 
