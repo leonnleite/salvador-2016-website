@@ -46,3 +46,11 @@
   speakers: [7]
   language: pt
   complexity: "Avançado" 
+-
+  id: 008
+  title: "CQRS e Event Sourcing"
+  description: "CQRS e Event sourcing são padrões, que visam resolver problemas atuais. Como os sistemas computacionais tendem cada vez mais, a serem distribuídos numericamente, e geograficamente, aliando a sua maior potência à sua utilização em larga escala. Muitos destes sistemas utilizados por grandes empresas têm como objetivo primordial conseguirem o máximo de disponibilidade."
+  subtype: presentation
+  speakers: [8]
+  language: pt
+  complexity: "Avançado" 

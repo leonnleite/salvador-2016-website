@@ -83,3 +83,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/lenonleite"}
     - {name: "github", link: "https://github.com/aszone"}
+-
+  id: 8
+  name: "Jefersson"
+  surname: "Nathan"
+  company: "PHP-SE"
+  title: "Engenheiro de Software"
+  bio: "Sergipano arretado, desenvolvedor PHP desde que se entendeu por gente. Fundador e membro do Grupo de usuários PHP do Estado de Sergipe. Hoje trabalha quase que exclusivamente com open-source para a `Marco Pivetta Software Development`."
+  thumbnailUrl: jefersson.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/malukenho"}
+    - {name: "github", link: "https://github.com/malukenho"}
