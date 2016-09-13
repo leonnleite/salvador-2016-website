@@ -221,8 +221,8 @@
   name: "Márcio"
   surname: "Albuquerque"
   company: "SERPRO"
-  title: ""
-  bio: ""
+  title: "Analista de desenvolvimento e infraestrutura"
+  bio: "Trabalha na empresa tem 10 anos atuando em vários sistemas internos, sistemas para órgãos do governo e infra pra desenvolvimento. Fã incondicional de PHP, JS e CSS!! Viciado em board games, filmes e séries!"
   thumbnailUrl: marcio.jpg
   rockstar: true
   social:
