@@ -54,3 +54,155 @@
   speakers: [8]
   language: pt
   complexity: "Avançado" 
+-
+  id: 009
+  title: "Utilizando Filas com PHP"
+  description: "O que são filas (queue)? Para que servem? Aonde e como utilizar com PHP? A ideia é falar un pouco sobre amqp, como utilizar e quando é necessário e no final mostrar um exemplo de producer e consumer usando RabbitMQ e PHP."
+  subtype: presentation
+  speakers: [9]
+  language: pt
+  complexity: "Intermediário" 
+-
+  id: 010
+  title: "REACT além dos WebSockets"
+  description: "Uma introdução à tecnologia de Streams com PHP, o funcionamento do EventLoop do React e demonstração de Streams e controle de fila de execução de programas usando como exemplo o PHPBot, biblioteca desenvolvida com o intuito de automatizar tarefas manuais em um computador. Será utilizado, durante a apresentação, algum emulador de jogo ou coisa do gênero para promover interação com o publico, mantendo o monitoramento de Streams em tempo real."
+  subtype: presentation
+  speakers: [10]
+  language: pt
+  complexity: "Intermediário" 
+-
+  id: 011
+  title: "Melhorando a comunicação de suas APIs com DSL"
+  description: "Como criar DSLs com PHP (internas e externas) através de dois exemplos práticos. Porque e quando DSLs são úteis e como introduzí-las no seu dia a dia."
+  subtype: presentation
+  speakers: [11]
+  language: pt
+  complexity: "Intermediário"
+-
+  id: 012
+  title: "MySQL 5.7: tirando o máximo proveito"
+  description: "MySQL 5.7 fez um ano de lançamento, mas você sabe o que tem de novidade nele? Nessa talk vamos ver como funcionam o tipo JSON, como manipular, colunas automaticamente geradas e como isso tudo se interconecta e faz da seua vida de desenvolvedor um pouco mais fácil."
+  subtype: presentation
+  speakers: [12]
+  language: pt
+  complexity: "Intermediário"
+-
+  id: 013
+  title: "As maravilhas do Service worker - Transformando um site em uma aplicação offline"
+  description: "Nada pior que ter a internet da \"tim\" lenta... ou então, sem internet. Existem formas de conseguir acessar os conteúdos web, mesmo quando não temos internet. Irei mostrar como se pode resolver isso. Além disso, vou apresentar alguns benefícios do service worker utilizando o cache do browser para guardar o conteúdo que é consumido pela API."
+  subtype: presentation
+  speakers: [13]
+  language: pt
+  complexity: "Intermediário"
+# -
+#   id: 014
+#   title: "Automatização Residencial com PHP"
+#   description: "Irei abordar de forma prática e o mais simples possível como usar o Arduino junto com o PHP para automatizar sua casa. Ligue luzes, abra portões, suba cortinas e mais pela internet."
+#   subtype: presentation
+#   speakers: [14]
+#   language: pt
+#   complexity: "Intermediário"
+-
+  id: 015
+  title: "All about Clean Code"
+  description: "Programação é a arte de dizer a um outro humano o que se deseja que o computador faça (Donald Knuth). Nesta palestra serão abordados os princípios do Clean Code, boas práticas de programação e tecnologias que podem auxiliar o Clean Coder PHP."
+  subtype: presentation
+  speakers: [15]
+  language: pt
+  complexity: "Intermediário"
+# -
+#   id: 016
+#   title: "A Revolução dos Middlewares com Zend Expressive"
+#   description: "Afinal, o que é esse tal de Zend Expressive? Já pensou em ter a liberdade de escolher apenas as bibliotecas de sua preferência para montar seu projeto? Imagine fazer isso em um micro-framework simples, leve, com alta performance, em total conformidade com as PSR’s (incluindo PSR-7 e os middlewares) e que tenha total interoperabilidade entre todas elas. O Zend Expressive chegou ao mercado provendo tudo isso, e sem perder a gama completa de funcionalidades do seu parente Full Stack. Durante a palestra, você entenderá melhor como funciona a mais nova aposta da Zend e da comunidade do Zend Framework."
+#   subtype: presentation
+#   speakers: [16]
+#   language: pt
+#   complexity: "Intermediário"
+# -
+#   id: 017
+#   title: "Automação - Usando melhor seu tempo e seus recursos"
+#   description: "Automação é um processo que, se feito com cuidado, só trás benefícios. Tanto para o desenvolvedor quando para a equipe. Nesta palestra eu demonstro como a automação está presente em coisas simples, e como ela pode te fazer ganhar tempo. Nesta palestra tento não focar na automação tests/build/deploy, mas em todo o tipo de automação, como a que ocorre em nosso terminal e em outras pequenas coisas. Falo também de ferramentas de automação, e demonstro alguns processos de integração."
+#   subtype: presentation
+#   speakers: [17]
+#   language: pt
+#   complexity: "Intermediário"
+# -
+#   id: 018
+#   title: "Xdebug: Seus problemas acabaram!"
+#   description: "Você leva horas, dias para encontrar um bug? Não conhece o framework que trabalha ou leva dias encontrando como implementar algo? Seus problemas acabaram! Aprenda a debugar suas aplicações com Xdebug!"
+#   subtype: presentation
+#   speakers: [18]
+#   language: pt
+#   complexity: "Intermediário"
+-
+  id: 020
+  title: "Jornada do Herói Dev: perrengues e gambiarras e como passamos por cima"
+  description: ""
+  subtype: presentation
+  speakers: [20]
+  language: pt
+  complexity: "Iniciante"
+-
+  id: 021
+  title: "Boas práticas no desenvolvimento de softwares"
+  description: "Todos sabem o quanto a qualidade é importante para o bom funcionamento de uma aplicação além de prover segurança e entregar um bom produto ao cliente, pensando nisso foram elencados alguns conceitos de boas práticas no desenvolvimento de softwares bem como técnicas para aumentar a produtividade, padrões de design, modelagem do banco de dados, arquitetura e testes."
+  subtype: presentation
+  speakers: [21]
+  language: pt
+  complexity: "Iniciante"
+-
+  id: 022
+  title: "Segurança e Aplicações Web"
+  description: "No mundo das aplicações web estamos sempre sendo criativos,apresentando alguma tecnologia nova que facilitam ou melhoram o desenvolvimento de uma aplicação, porém muitas das vezes não nos preocupamos muito com boas práticas ou segurança ... Causando vulnerabilidade nas aplicações. Irei mostrar que sim existe riscos na web e como você pode se proteger utilizando PHP."
+  subtype: presentation
+  speakers: [22]
+  language: pt
+  complexity: "Intermediário"
+-
+  id: 023
+  title: "Javascript ES6, ES7 e ES8"
+  description: "Irei abordar nas novas features do ECMAScript, listando o que é possível hoje desenvolver nos navegadores tradicionais do mercado, fazer comparativos do React, jQuery, Angular, backbone.js e Vue.js, informando os paradigmas dessas modas que os Front-Ends estão utilizando."
+  subtype: presentation
+  speakers: [23]
+  language: pt
+  complexity: "Intermediário"
+# -
+#   id: 024
+#   title: "O Poder das Comunidades de Tecnologia"
+#   description: "A palestra descreve sobre o que são comunidades da história antiga até os tempos atuais. O compartilhamento de ideias, o envolvimento, o que move as comunidades de tecnologia, os 5 tipos pessoas de comunidades e um roda de conversa que vai ser chamado de \"Uma pausa para a comunidade\" cada pessoa da plateia vai compartilhar um pouco de sua experiencia com comunidades."
+#   subtype: presentation
+#   speakers: [24]
+#   language: pt
+#   complexity: "Intermediário"
+-
+  id: 025
+  title: "Start com Microframeworks"
+  description: "Uma leve pincelada de como startar, em poucas horas, uma aplicação desde a prototipagem até o lançamento separando o Front-End do Back-End usando Microframeworks. Será mostrado como o Front-End pode ser pensado fora da aplicação (Apps HTML5, Desktop e Mobile) e como criar uma App em Lumen (microframework do Laravel) pode servir os dados para o Front-End."
+  subtype: presentation
+  speakers: [25]
+  language: pt
+  complexity: "Iniciante"  
+-
+  id: 026
+  title: "Iniciando uma aplicação PHP Like a Boss na AWS!"
+  description: "Neste hands-on irei mostrar o caminho das pedras para que sua aplicação PHP comece com as melhores práticas, além de aproveitar o melhor dos recursos que a AWS oferece, como o EC2, S3, RDS, Elastic Beanstalk, Elastic Cache, Elastic Load Balancing..."
+  subtype: presentation
+  speakers: [26]
+  language: pt
+  complexity: "Iniciante"
+-
+  id: 027
+  title: "PHP - a melhor para desenvolvedores web autônomos"
+  description: "Esta palestra busca apresentar o porque, o PHP ainda é a melhor opção para profissionais liberais, através dos seguintes argumentos:<br><br>- facilidade em aprender PHP, diante da experiência com meus alunos;<br>- a excelente documentação da php.net e uma comunidade fortemente ativa;<br>- rapidez e escalabilidade, como os pequenos projetos pedem;<br>- linguagem da maioria dos CMS no mercado;<br>- serviços de hospedagem \"sempre\" dispõe desse plano e a baixo custo;<br>- frameworks mais leves e integrações externas, inclusive Arduíno;<br>- segurança e confiabilidade."
+  subtype: presentation
+  speakers: [27]
+  language: pt
+  complexity: "Iniciante"
+-
+  id: 028
+  title: "As mágicas do Laravel"
+  description: "Vou mostrar como mais famoso framework de PHP realiza suas mágicas e como fui convencido a utilizar um framework."
+  subtype: presentation
+  speakers: [28]
+  language: pt
+  complexity: "Iniciante"
