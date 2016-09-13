@@ -7,6 +7,14 @@
   language: en
   complexity: "Intermediário" 
 -
+  id: 002
+  title: "CommunityWorks"
+  description: "Todas as formas de vida interagem entre si de maneira a criar e consumir benefícios entre si. O próprio conceito de humanidade e civilização tem raízes no coletivo. Comunidades são grupos nos quais os componentes tem iguais ideais entre si. Mas aí ficam as perguntas: você faz parte da comunidade? Mesmo? Qual?"
+  subtype: presentation
+  speakers: [2]
+  language: pt
+  complexity: "Iniciante" 
+-
   id: 003
   title: "Vamos escrever menos código!"
   description: "Não existe bug se não existir código. Tomando isso como verdade, vamos conhecer técnicas para reduzir a quantidade de código que geralmente escrevemos. Por ser uma linguagem com suporte à múltiplos paradigmas e por naturalmente oferecer uma boa flexibilidade, podemos utilizar vários recursos do PHP para reduzir a quantidade de código que produzimos. Nessa palestra tento mostrar ferramentas, recursos e técnica que visam deixar o código da aplicação menor e mais simples de ser compreendido."
